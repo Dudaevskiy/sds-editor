@@ -1,0 +1,4 @@
+require 'medium-editor/dist/css/medium-editor.css'
+require 'vuejs-medium-editor/src/themes/default.css'
+/*// for the code highlighting*/
+require 'highlight.js/styles/ocean.css'
